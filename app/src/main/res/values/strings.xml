@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidStater</string>
+    <string name="edit_message">Please Input You Name</string>
+    <string name="button">Search</string>
 </resources>
