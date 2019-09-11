@@ -1,4 +1,4 @@
-package com.example.mac.androidstater
+package com.example.androidstater
 
 import org.junit.Test
 
